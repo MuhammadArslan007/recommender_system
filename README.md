@@ -23,7 +23,7 @@ This is a simple movie recommendation system that suggests similar movies based 
 ### How to Run Locally:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/movierecommendationsystem.git
+   git clone https://github.com/MuhammadArslan007/recommender_system.git
    ```
 2. Install the required libraries:
    ```bash
