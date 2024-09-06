@@ -7,6 +7,12 @@ This is a simple movie recommendation system that suggests similar movies based 
 - **Movie Posters**: Fetches and displays posters for recommended movies using The Movie Database (TMDB) API.
 - **Deployed Version**: Try out the live app here: [Movie Recommendation System](https://myrecommendersystem.streamlit.app)
 
+### Dataset:
+The dataset used for this project is sourced from **Kaggle**, which contains movie metadata from **The Movie Database (TMDB)**. This dataset includes information about movies such as titles, genres, overviews, and other relevant metadata used to build the recommendation system.
+
+You can access the dataset here:  
+[TMDB Movie Metadata on Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+
 ### Tools and Libraries:
 - **Pandas**: For handling the movie data (titles and tags).
 - **Numpy**: For efficient array computations.
